@@ -1,6 +1,6 @@
 extends TextureButton
 
-var red_scene = load("res://scenes/Blocks/Violet/BlockViolet.tscn")
+var red_scene = load("res://assets/block_red.png")
 func _on_button_down() -> void:
 	generate_block()
 

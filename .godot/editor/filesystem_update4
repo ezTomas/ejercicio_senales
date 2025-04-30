@@ -8,3 +8,5 @@ res://scenes/Blocks/Violet/block_violet.gd
 res://scenes/Buttons/Reset/reset.gd
 res://scenes/Buttons/Reset/Reset.tscn
 res://scenes/Buttons/RedGenerator/RedGenerator.tscn
+res://scenes/Menu/Menu.tscn
+res://scenes/Menu/Menu.gd
